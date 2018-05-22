@@ -1,0 +1,25 @@
+{
+	"Lander": {
+		"titleTextText": "Title",
+		"featuredButtonText": "FEATURED",
+		"moviesButtonText": "MOVIES",
+		"showsButtonText": "SHOWS",
+		"btnSettingsButtonText": ""
+	},
+	"PDP": {
+		"titleTextText": "Title",
+		"subtitleTextText": "Title",
+		"descriptionTextText": "Title",
+		"labelPlayTextText": "Play",
+		"saveTextText": "Save",
+		"titleTwoTextText": "Title",
+		"titleThreeTextText": "Title",
+		"titleFourTextText": "Title",
+		"titleFiveTextText": "Title",
+		"titleSixTextText": "Title",
+		"btnBackButtonText": ""
+	},
+	"": {
+		"btnBackButtonText": ""
+	}
+}
